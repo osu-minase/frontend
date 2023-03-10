@@ -19,12 +19,14 @@ require (
 	github.com/frustra/bbcode v0.0.0-20180807171629-48be21ce690c
 	github.com/getsentry/raven-go v0.2.0
 	github.com/gin-gonic/contrib v0.0.0-20190923054218-35076c1b2bea
-	github.com/gin-gonic/gin v1.4.0
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/jmoiron/sqlx v1.2.0
 	github.com/johnniedoe/contrib v0.0.0-20150821124612-d553224621be
 	github.com/microcosm-cc/bluemonday v1.0.20
+	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
+	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/onsi/ginkgo v1.16.5 // indirect
 	github.com/onsi/gomega v1.27.2 // indirect
