@@ -43,7 +43,7 @@ require (
 	github.com/thehowl/conf v0.1.0
 	github.com/thehowl/qsql v0.0.0-20160712153739-9b9405451f47
 	github.com/valyala/fasthttp v1.5.0 // indirect
-	golang.org/x/crypto v0.1.0
+	golang.org/x/crypto v0.17.0
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	gopkg.in/mailgun/mailgun-go.v1 v1.1.1
 	gopkg.in/redis.v5 v5.2.9
